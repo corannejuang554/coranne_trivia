@@ -1,4 +1,4 @@
 #!/bin/bash
 
 # Run the Python script
-python3 coranne_juang_trivia_question.py
+python3 app.py
