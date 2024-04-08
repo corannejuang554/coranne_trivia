@@ -1,0 +1,20 @@
+{
+    "num_rounds": "2",
+    "potential_categories": [
+        "Entertainment: Television",
+        "Science: Gadgets",
+        "Geography",
+        "Science: Computers",
+        "Vehicles",
+        "Celebrities",
+        "Art",
+        "Entertainment: Video Games",
+        "Entertainment: Books",
+        "Entertainment: Board Games",
+        "General Knowledge",
+        "Sports",
+        "Entertainment: Comics"
+    ],
+    "game_difficulty": "hard",
+    "game_summary_filename": "example_summary_3.csv"
+}

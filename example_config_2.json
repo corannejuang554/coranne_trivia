@@ -1,0 +1,10 @@
+{
+    "num_rounds": "1",
+    "potential_categories": [
+        "Entertainment: Comics",
+        "Animals",
+        "Entertainment: Television"
+    ],
+    "game_difficulty": "medium",
+    "game_summary_filename": "example_summary_2.csv"
+}

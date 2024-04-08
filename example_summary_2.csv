@@ -1,0 +1,4 @@
+rducound_number,question_category,question_difficulty,question_text,user_answer,correct_answer,correct,unscaled_points_earned
+1,27,hard,What bird is born with claws on its wing digits?,C,Hoatzin,False,-15
+,,,,,,Total Game Score (Unscaled):,-15
+,,,,,,Total Game Score (Scaled):,-30

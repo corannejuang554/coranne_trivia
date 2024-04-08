@@ -1,0 +1,12 @@
+{
+    "num_rounds": "0",
+    "potential_categories": [
+        "Sports",
+        "Science: Gadgets",
+        "Science & Nature",
+        "Art",
+        "Politics"
+    ],
+    "game_difficulty": "easy",
+    "game_summary_filename": "example_summary_1.csv"
+}
