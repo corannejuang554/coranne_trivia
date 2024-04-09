@@ -1,4 +1,13 @@
 #!/bin/bash
 
-# Run the Python script
+if [ -d "./env" ]; then
+    echo "Activating virtual environment..."
+    source "./env/bin/activate"
+else
+    echo "Virtual environment not found at ./env"
+    exit 1
+fi
+
 python3 app.py
+
+deactivate

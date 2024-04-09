@@ -4,7 +4,7 @@ Take Home Assessment
 
 By Coranne Juang <coranne@umich.edu>
 
-Here's a little Trivia Game that uses the https://opentdb.com/api.php API to generate questions based on category and difficult selected. 
+Here's a little Trivia Game that uses the https://opentdb.com/api.php API to generate questions based on category and difficulty selected. 
 
 To run the trivia game, run the bash script with this command:
 bin/trivia_run           
